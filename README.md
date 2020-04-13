@@ -12,4 +12,4 @@ These applications are :
 
 Name | Short Description
 ------------ | -------------
-[Password Generator](https://codepen.io/yash-278/full/OJyVoqG) | Generate random passwords
+[Password Generator](https://codepen.io/yash-278/full/OJyVoqG) | Generate random passwordsssssssssssssssssss
