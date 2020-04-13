@@ -8,6 +8,8 @@ These applications are :
 * great for using as examples in tutorials (articles or videos) 📃;
 * easy to complete and also easily extendable with new features 👌;
 
-Name | Description
+# Projects with Links
+
+Name | Short Description
 ------------ | -------------
 [Password Generator](https://codepen.io/yash-278/pen/OJyVoqG) | Generate random passwords
