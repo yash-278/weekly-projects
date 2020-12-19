@@ -16,3 +16,4 @@ These applications are :
 | [Book Finder](https://ethereal-remarkable-kangaroo.glitch.me/) | Find Books using Google Books API |
 | [Drawboard App](https://spectrum-enchanted-hope.glitch.me/)    | Paint as much as you like & Download it |
 | [QR Code Generator](https://splashy-judicious-force.glitch.me/) | Generate QR Code as per the input text |
+| [Emoji Finder App](https://emoji-search.glitch.me/)             | Find Emojis with KeyWords |
